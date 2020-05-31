@@ -1,4 +1,4 @@
 #!/bin/bash/
 echo " test script"
-#NUMBER = $(($FIRST + $SECOND"))
+NUMBER = $(($FIRST + $SECOND"))
 echo "$NUMBER"
